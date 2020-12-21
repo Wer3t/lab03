@@ -32,11 +32,11 @@ while (arr[i] != '\0') {    // create a cycle for counting vowels
  }
 }
 ```
-![lab06.png](/home/danil/lab03/1(6)/doc/lab06.png)
+![lab06.png](./doc/lab06.png)
 
 2.5 Компіляція проекту, та перевірка правильності роботи програми за допомогою Nemiver
 
-![nemiver.png](/home/danil/lab03/1(6)/doc/nemiver.png)
+![nemiver.png](./doc/nemiver.png)
 
 Висновки:
 Я створила програму, яка визначає кількість голосних у слові
